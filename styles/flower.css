@@ -1,6 +1,58 @@
 .nav-title {
-    display: ;
-    width: 700px;
-    flex-direction: column;
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
     
+}
+.typo{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.you {
+    background-color: #E554731A;
+
+}
+.bro{
+width: fit-content;
+height: 800px;
+flex-shrink: 0;
+font-display: right;
+}
+.me {
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: ;
+}
+.banner{
+    padding:30px 150px;
+}
+.our{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.long{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
 }
